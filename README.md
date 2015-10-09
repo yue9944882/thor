@@ -4,7 +4,6 @@ Implementation of [https://tools.ietf.org/html/draft-fuldseth-netvc-thor](https:
 
 ## Build
 
-Windows: Use Visual Studio with build/Thor.sln.
 
 Mac/Linux:
 
